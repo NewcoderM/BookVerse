@@ -109,9 +109,9 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * To maintain the best possible user experience, the navigation bar is available in three distinct screen size variations. All three retain the same colour scheme and design elements, with the exception of the structure.
 
-![Desktop Navbar](navbar.png)
+![Desktop Navbar](navbar.PNG)
 
-![Mobile Navbar](navbar-mobile.png)
+![Mobile Navbar](navbar-mobile.PNG)
 
 ## Home Page
 
@@ -121,11 +121,11 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
  * We have one section for landing page which helps the end user to navigate to the books page.
 
- ![Desktop Homepage](home.png)
+ ![Desktop Homepage](home.PNG)
 
  <details><summary>Mobile Home Page</summary>
 
- ![Mobile Homepage](mobile-home.png)
+ ![Mobile Homepage](mobile-home.PNG)
 
  </details>
 
@@ -137,7 +137,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * This page is fully responsive
 
-![Books](books.jpeg)
+![Books](books.PNG)
 
 ## Book Page
 
@@ -147,7 +147,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * It holds the description of a book.
 
-![Desktop Book Page](single-book.jpeg)
+![Desktop Book Page](book.PNG)
 
 </details>
 
@@ -159,7 +159,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * And also It helps the seller to sell the books.
 
-![Desktop Contact Page](assets/images/readme-images/contact.png)
+![Desktop Contact Page](contact.PNG)
 
 </details>
 
@@ -193,7 +193,7 @@ BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](performance-test.jpeg)
+![Lighthouse testing](performance-check.PNG)
 
 ## Responsive Testing
 
