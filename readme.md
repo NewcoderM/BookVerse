@@ -138,3 +138,58 @@ All pages—aside from the home page—have a headline that is easy to see when 
 * Github - Used to host and deploy the website.
 
 [Back to top](<#contents>)
+
+# Testing
+
+## Code Validation
+BookVerse was tested with HTML and CSS validators and it got many problems and I am trying to resolve all the issues.
+
+![W3C HTML Validator](html-test.jpeg)
+
+![W3C CSS Validator](css-test.jpeg)
+
+## Lighthouse Testing
+
+The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
+
+![Lighthouse testing](performance-test.jpeg)
+
+## Responsive Testing
+
+Responsiveness was tested via a few different mediums manually, including Chrome Devtools.
+
+## Manual Testing
+
+In addition to the automated process above, manual testing was carried out on the site as well.
+
+* Naviagtion Menu
+    * Verified that all the links are working
+    * Verified that the logo is taking to the home page
+    * Verified that the navigation bar is full responsive.
+
+* Home Page
+    * Verified that the Hero image is responsive
+    * Verified that all the buttons are working the page
+
+* Books Page
+    * Verified that grids are responsive
+    * Verified that it is taking to the particular page
+    * Verified that Books description are clearly shown
+
+* Book Page
+    * Verfied all the image has alt text
+    * Verified that the button is working
+
+* Contact Page
+    * Verified that it is can't be submitted with the required inputs
+    * Verified that it is responsive
+
+* Footer
+    * Verrified that the email asset links properly with the mailto function.
+    * Verified that the social media links are all linked properly to the releveant social media home pages.
+    * Verified that all the social media links open in a new tab.
+
+* Browser Testing
+    * Storyverse is tested on all the browsers
+    * Verified that all the images and links are working correctly.
+    * Verified that all images worked correctly
