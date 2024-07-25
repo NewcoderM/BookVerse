@@ -193,7 +193,7 @@ BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](performance-check.PNG)
+![Lighthouse testing](performace-check.PNG)
 
 ## Responsive Testing
 
