@@ -142,7 +142,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 # Testing
 
 ## Code Validation
-BookVerse was tested with HTML and CSS validators and it got many problems and I am trying to resolve all the issues.
+BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
 
 ![W3C HTML Validator](html-test.jpeg)
 
@@ -193,3 +193,7 @@ In addition to the automated process above, manual testing was carried out on th
     * Storyverse is tested on all the browsers
     * Verified that all the images and links are working correctly.
     * Verified that all images worked correctly
+      
+## Bugs Fixed
+
+### HTML Validation
