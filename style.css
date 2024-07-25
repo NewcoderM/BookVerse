@@ -27,6 +27,18 @@ img {
 =========================*/
 
 /* Index -> Nav */
+.nav-list {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .nav-list {
+        display: table-column;
+        text-align: center;
+    }
+}
+
+
 .brand-link {
     color: var(--secondary-color);
     transition: color 0.5s ease-in-out;
@@ -34,14 +46,6 @@ img {
 
 .brand-link:hover {
     color: var(--link-color);
-}
-
-.mobile-nav-button {
-    background: none;
-}
-
-.mobile-nav-menu  {
-    background: var(--primary-color);
 }
 
 /* Index -> Cover */
@@ -271,6 +275,10 @@ img {
 
 .t-size-10 {
     font-size: 10px;
+}
+
+.t-size-16 {
+    font-size: 16px;
 }
 
 .t-size-45 {
