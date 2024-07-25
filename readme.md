@@ -3,7 +3,7 @@ Storyverse is a small profesional bookstore which offers a wide range of books. 
 
 You can view the live site here - <a href="https://newcoderm.github.io/BookVerse/" target="_blank"> Storyverse </a>
 
-[](mockup.jpeg)
+![](mockup.jpeg)
 
 # Contents
 - [*StoryVerse - Project Portfolio 1 - HTML \& CSS*](#storyverse---project-portfolio-1---html--css)
