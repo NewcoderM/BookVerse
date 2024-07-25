@@ -197,3 +197,7 @@ In addition to the automated process above, manual testing was carried out on th
 ## Bugs Fixed
 
 ### HTML Validation
+BookVerse had 8 problems and I managed to fix them.
+
+![Bug Fixed](debug-html.PNG)
+
