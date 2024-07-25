@@ -201,3 +201,30 @@ BookVerse had 8 problems and I managed to fix them.
 
 ![Bug Fixed](debug-html.PNG)
 
+# Deployment
+
+The website was deployed to GitHub pages via the following methods:
+
+1. Navigate to the Settings tab in the GitHub repository for the project.
+2. On the left hand side, scroll down to the pages tab.
+3. Under the Source tab, choose the branch called Main and in the dropdown beside it select the folder called Root.
+4. Click save.
+5. The page automatically displays the deployed link at the top once save is clicked.
+6. It can take up to 5 minutes to deploy.
+
+[Back to top](<#contents>)
+
+# Credits
+
+* All images from the website were sourced from [Pinterest](https://www.pinterest.de/)
+* Colour palette was created by [coolors.co](https://coolors.co/)
+* CSS Grid code was learned via [Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o&t=7s&ab_channel=TraversyMedia)
+  
+[Back to top](<#contents>)
+
+# Acknowledgements
+
+This site, BookVerse was designed and developed in conjunction with the Full Stack Software Developer Diploma course (eccommerce) at the Code Institute. I would like to thank my mentor, Mr. Spencer Barriball.
+
+[Back to top](<#contents>)
+
