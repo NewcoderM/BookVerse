@@ -75,7 +75,7 @@ The design and structure for this website was created in Figma. We built the wir
 
 ![Books Page Wireframe](Asset/books.jpeg)
 
-![|Single Book Page Wireframe](single-book.jpeg)
+![|Single Book Page Wireframe](Asset/single-book.jpeg)
 
 </details>
 
@@ -109,9 +109,9 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * To maintain the best possible user experience, the navigation bar is available in three distinct screen size variations. All three retain the same colour scheme and design elements, with the exception of the structure.
 
-![Desktop Navbar](navbar.PNG)
+![Desktop Navbar](Asset/navbar.PNG)
 
-![Mobile Navbar](navbar-mobile.PNG)
+![Mobile Navbar](Asset/navbar-mobile.PNG)
 
 ## Home Page
 
