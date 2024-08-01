@@ -71,9 +71,9 @@ The design and structure for this website was created in Figma. We built the wir
 
 <details><summary> Low Fidelity Wireframes </summary>
 
-![Home Page Wireframne](home.jpeg)
+![Home Page Wireframne](Asset/home.jpeg)
 
-![Books Page Wireframe](books.jpeg)
+![Books Page Wireframe](Asset/books.jpeg)
 
 ![|Single Book Page Wireframe](single-book.jpeg)
 
@@ -89,7 +89,7 @@ Storyverse consists of 4 page website with 3 pages that the user can navigate be
 
 The Color pallete I use is based on the Dark teal and I use 3 colors for the pallete to introduce the webpage a little more and it also gives the end-user to have passion to read the books.
 
-![Colour palette image of 3 colours](colors.jpeg)
+![Colour palette image of 3 colours](Asset/colors.jpeg)
 
 ### Typography
 
