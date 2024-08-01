@@ -121,7 +121,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
  * We have one section for landing page which helps the end user to navigate to the books page.
 
- ![Desktop Homepage](home.PNG)
+ ![Desktop Homepage](Asset/home.PNG)
 
  <details><summary>Mobile Home Page</summary>
 
