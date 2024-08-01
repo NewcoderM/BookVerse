@@ -125,7 +125,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
  <details><summary>Mobile Home Page</summary>
 
- ![Mobile Homepage](mobile-home.PNG)
+ ![Mobile Homepage](Asset/mobile-home.PNG)
 
  </details>
 
@@ -137,7 +137,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * This page is fully responsive
 
-![Books](books.PNG)
+![Books](Asset/books.PNG)
 
 ## Book Page
 
@@ -147,7 +147,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * It holds the description of a book.
 
-![Desktop Book Page](book.PNG)
+![Desktop Book Page](Asset/book.PNG)
 
 </details>
 
@@ -159,7 +159,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * And also It helps the seller to sell the books.
 
-![Desktop Contact Page](contact.PNG)
+![Desktop Contact Page](Asset/contact.PNG)
 
 </details>
 
@@ -185,15 +185,15 @@ All pages—aside from the home page—have a headline that is easy to see when 
 ## Code Validation
 BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
 
-![W3C HTML Validator](html-test.jpeg)
+![W3C HTML Validator](Asset/html-test.jpeg)
 
-![W3C CSS Validator](css-test.jpeg)
+![W3C CSS Validator](Asset/css-test.jpeg)
 
 ## Lighthouse Testing
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](performace-check.PNG)
+![Lighthouse testing](Asset/performace-check.PNG)
 
 ## Responsive Testing
 
@@ -240,7 +240,7 @@ In addition to the automated process above, manual testing was carried out on th
 ### HTML Validation
 BookVerse had 8 problems and I managed to fix them.
 
-![Bug Fixed](debug-html.PNG)
+![Bug Fixed](Asset/debug-html.PNG)
 
 # Deployment
 
@@ -266,7 +266,9 @@ The website was deployed to GitHub pages via the following methods:
 # Acknowledgements
 
 This site, BookVerse was designed and developed in conjunction with the Full Stack Software Developer Diploma course at the Code Institute. I would like to thank my mentor, Mr. Spencer Barriball, who has giving valuble advices to finish this project easier and faster than I expected.
-I thank my cohort facilitator Kamil for his continuos support. I would also like to thank the student care at CodeInstitute especially Bethany who helped me through my many setbacks at the begining of this course and make me reaching this point possible.
+I thank my cohort facilitator Kamil for his continuos support. I would also like to thank the student care at CodeInstitute especially Bethany who helped me through my many setbacks at the begining of this course and made reaching this point possible for me.
+
+To all those people...Thankyou ❤
 
 [Back to top](<#contents>)
 
