@@ -265,7 +265,8 @@ The website was deployed to GitHub pages via the following methods:
 
 # Acknowledgements
 
-This site, BookVerse was designed and developed in conjunction with the Full Stack Software Developer Diploma course at the Code Institute. I would like to thank my mentor, Mr. Spencer Barriball, who has giving valuble advices to finish this project easier and faster than I expected. I thank my cohort facilitator Kamil for his continuos support. I would also like to thank the student care at CodeInstitute especially Bethany who helped me through my many setbacks at the begining of this course and make me reaching this point possible.
+This site, BookVerse was designed and developed in conjunction with the Full Stack Software Developer Diploma course at the Code Institute. I would like to thank my mentor, Mr. Spencer Barriball, who has giving valuble advices to finish this project easier and faster than I expected.
+I thank my cohort facilitator Kamil for his continuos support. I would also like to thank the student care at CodeInstitute especially Bethany who helped me through my many setbacks at the begining of this course and make me reaching this point possible.
 
 [Back to top](<#contents>)
 
