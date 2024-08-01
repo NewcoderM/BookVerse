@@ -117,7 +117,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
  * The home page is the landing page of the website. It gives the end-user a feel of welcoming.
 
- * A sizable hero image is prominently displayed and was picked for its aesthetic, colour scheme, and tone to complement the website. The site name and a memorable slogan are superimposed over the hero image.
+ * A sizable book image is prominently displayed and was picked for its aesthetic, colour scheme, and tone to complement the website. The site name and a memorable slogan are superimposed over the book image.
 
  * We have one section for landing page which helps the end user to navigate to the books page.
 
