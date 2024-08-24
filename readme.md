@@ -159,11 +159,13 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * And also It helps the seller to sell the books.
 
+  ![Desktop Contact Page](asset/images/contact.PNG)
+
 ## An after-form-submit page
 
 Which enhances the user experience to get a thank you or congratulation message after submitting the form. 
 
-![Desktop Contact Page](asset/images/contact.PNG)
+![after-form-submit Page](asset/images/contact.PNG)
 
 </details>
 
@@ -197,7 +199,7 @@ BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](Asset/performace-check.PNG)
+![Lighthouse testing](asset/images/performace-check.PNG)
 
 ## Responsive Testing
 
