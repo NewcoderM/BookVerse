@@ -163,7 +163,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 ## An after-form-submit (formdump) page
 
-Which enhances the user experience to get a thank you or congratulation message after submitting the form. 
+Which enhances the user experience by getting a thank you or congratulation message after submitting the form and a link back to the main page.
 
 ![after-form-submit Page](asset/images/Screenshot_20240824_185142.jpg)
 
