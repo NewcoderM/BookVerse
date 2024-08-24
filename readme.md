@@ -161,7 +161,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
   ![Desktop Contact Page](asset/images/contact.PNG)
 
-## An after-form-submit page
+## An after-form-submit (formdump) page
 
 Which enhances the user experience to get a thank you or congratulation message after submitting the form. 
 
