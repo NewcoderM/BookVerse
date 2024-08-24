@@ -3,7 +3,7 @@ Storyverse is a small profesional bookstore which offers a wide range of books. 
 
 You can view the live site here - <a href="https://newcoderm.github.io/BookVerse/" target="_blank"> Storyverse </a>
 
-![](Asset/mockup.jpeg)
+![](asset/images/mockup.jpeg)
 
 # Contents
 - [*StoryVerse - Project Portfolio 1 - HTML \& CSS*](#storyverse---project-portfolio-1---html--css)
@@ -71,17 +71,17 @@ The design and structure for this website was created in Figma. We built the wir
 
 <details><summary> Low Fidelity Wireframes </summary>
 
-![Home Page Wireframne](Asset/home.jpeg)
+![Home Page Wireframne](asset/images/home.jpeg)
 
-![Books Page Wireframe](Asset/books.jpeg)
+![Books Page Wireframe](asset/images/books.jpeg)
 
-![|Single Book Page Wireframe](Asset/single-book.jpeg)
+![|Single Book Page Wireframe](asset/images/single-book.jpeg)
 
 </details>
 
 ## Site Structure
 
-Storyverse consists of 4 page website with 3 pages that the user can navigate between via the navigation bar. By default, the loading page is the Home page. In addition to being centred, the logo is connected to the home page. Two navigation links, [Home] (index.html) and [Books] (books.html), are located on the left side of the logo. Two more navigation links and [Contact] (contact.html), are located on the right side of the logo.
+Storyverse consists of 5 pages website with 3 pages that the user can navigate between via the navigation bar and an after-form-submit page. By default, the loading page is the Home page. In addition to being centred, the logo is connected to the home page. Two navigation links, [Home] (index.html) and [Books] (books.html), are located on the left side of the logo. Two more navigation links and [Contact] (contact.html), are located on the right side of the logo.
 
 ## Design Choices
 
@@ -89,7 +89,7 @@ Storyverse consists of 4 page website with 3 pages that the user can navigate be
 
 The Color pallete I use is based on the Dark teal and I use 3 colors for the pallete to introduce the webpage a little more and it also gives the end-user to have passion to read the books.
 
-![Colour palette image of 3 colours](Asset/colors.jpeg)
+![Colour palette image of 3 colours](asset/images/colors.jpeg)
 
 ### Typography
 
@@ -109,35 +109,35 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * To maintain the best possible user experience, the navigation bar is available in three distinct screen size variations. All three retain the same colour scheme and design elements, with the exception of the structure.
 
-![Desktop Navbar](Asset/navbar.PNG)
+![Desktop Navbar](asset/images/navbar.PNG)
 
-![Mobile Navbar](Asset/navbar-mobile.PNG)
+![Mobile Navbar](asset/images/navbar-mobile.PNG)
 
 ## Home Page
 
  * The home page is the landing page of the website. It gives the end-user a feel of welcoming.
 
- * A sizable book image is prominently displayed and was picked for its aesthetic, colour scheme, and tone to complement the website. The site name and a memorable slogan are superimposed over the book image.
+ * A sizable hero image is prominently displayed and was picked for its aesthetic, colour scheme, and tone to complement the website. The site name and a memorable slogan are superimposed over the hero image.
 
  * We have one section for landing page which helps the end user to navigate to the books page.
 
- ![Desktop Homepage](Asset/home.PNG)
+ ![Desktop Homepage](asset/images/home.PNG)
 
  <details><summary>Mobile Home Page</summary>
 
- ![Mobile Homepage](Asset/mobile-home.PNG)
+ ![Mobile Homepage](asset/images/mobile-home.PNG)
 
  </details>
 
 ## Books Page
 
-* * The Books page is exactly what its navigation link says it is. It provides a concise list of the books that are offered..
+* * The books page is exactly what its navigation link says it is. It provides a concise list of the books that are offered..
 
 * There is a list of the available books.
 
 * This page is fully responsive
 
-![Books](Asset/books.PNG)
+![Books](asset/images/books.PNG)
 
 ## Book Page
 
@@ -147,7 +147,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * It holds the description of a book.
 
-![Desktop Book Page](Asset/book.PNG)
+![Desktop Book Page](asset/images/book.PNG)
 
 </details>
 
@@ -159,7 +159,11 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 * And also It helps the seller to sell the books.
 
-![Desktop Contact Page](Asset/contact.PNG)
+## An after-form-submit page
+
+Which enhances the user experience to get a thank you or congratulation message after submitting the form. 
+
+![Desktop Contact Page](asset/images/contact.PNG)
 
 </details>
 
@@ -185,9 +189,9 @@ All pages—aside from the home page—have a headline that is easy to see when 
 ## Code Validation
 BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
 
-![W3C HTML Validator](Asset/html-test.jpeg)
+![W3C HTML Validator](asset/images/html-test.jpeg)
 
-![W3C CSS Validator](Asset/css-test.jpeg)
+![W3C CSS Validator](asset/images/css-test.jpeg)
 
 ## Lighthouse Testing
 
@@ -240,7 +244,7 @@ In addition to the automated process above, manual testing was carried out on th
 ### HTML Validation
 BookVerse had 8 problems and I managed to fix them.
 
-![Bug Fixed](Asset/debug-html.PNG)
+![Bug Fixed](asset/images/debug-html.PNG)
 
 # Deployment
 
@@ -252,6 +256,24 @@ The website was deployed to GitHub pages via the following methods:
 4. Click save.
 5. The page automatically displays the deployed link at the top once save is clicked.
 6. It can take up to 5 minutes to deploy.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the GitHub Repository
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+7. Press Enter. Your local clone will be created
 
 [Back to top](<#contents>)
 
