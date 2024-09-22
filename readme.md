@@ -165,7 +165,7 @@ All pages—aside from the home page—have a headline that is easy to see when 
 
 Which enhances the user experience by getting a thank you or congratulation message after submitting the form and a link back to the main page.
 
-![after-form-submit Page](asset/images/Screenshot_20240824_185142.jpg)
+![after-form-submit Page](asset/images/formdump.PNG)
 
 </details>
 
@@ -221,7 +221,7 @@ This is solved picture with no issues.
 
 ##The book page , contact page and dumbforum page were having some issues but all of them were fixed
 (I have made screenshots and I thought I saved them but obviously, I didn´t. The chance is gone, that they are already fixed.)
-![contact-fixed](asset/images/contact-fixed.jpeg)
+![contact-fixed](asset/images/contact-fixed.PNG)
 
 ### Lighthouse Testing
 
