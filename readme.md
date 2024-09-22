@@ -222,7 +222,7 @@ This is solved picture with no issues.
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](asset/images/performace-check.PNG)
+![Lighthouse testing](asset/images/performace_check.PNG)
 
 ### Responsive Testing
 
