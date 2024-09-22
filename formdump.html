@@ -3,14 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>StoryVerse</title>
+    <link rel="stylesheet" href="./asset/css/style.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./asset/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./asset/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./asset/favicon/favicon-16x16.png">
 </head>
 <body>
-    <h1>Congratulation</h1>
-    <p>Thank you you very much for your interest and order. Your request will be handeled and you will hear from us very soon</p>
-    <h2><a href="./index">StoryVerse</a></h2>
+    <header>
+        <nav class="bg-primary flex content-center">
+            <ul class="nav-list p-16 t-indent-50">
+                <li><a class="t-white font-bold t-size-20 cursor-pointer" href="./index.html">StoryVerse</a></li>
+                <li><a class="font-bold t-size-20 cursor-pointer brand-link" href="./index.html">Home</a></li>
+                <li><a class="font-bold t-size-20 cursor-pointer brand-link" href="./books.html">Books</a></li>
+                <li><a class="font-bold t-size-20 cursor-pointer brand-link" href="./contacts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- cover section -->
+    <div id="cover-section">
+        <div class="relative cover-image_container w-full overflow-hidden">
+            <img class="cover-image w-full h-full object-contain grayscale-25 z-0" src="./asset/images/banner.jpg" alt="cover-image">
+        </div>
+        <div class="absolute cover-image_text-wrapper py-10 border-rounded-l border-primary z-100"></div>
+        <div class="absolute cover-image_text-container py-10 border-rounded-l border-primary z-100 text-center">
+            <p class="t-white t-size-45">Congratulation</span><p>
+            <p>Thank you you very much for your interest and order. Your request will be handeled and you will hear from us very soon</p>
+            <button onclick="window.location.href='books.html'" class="btn btn-primary mt-10">Explore More Books</button>
+            <button onclick="window.location.href='index.html'" class="btn btn-outline-primary mt-10">Back</button>
+        </div>
+    </div>
+
+    <footer>
+        <nav class="bg-primary flex content-center">
+            <ul class="flex p-16 t-indent-50">
+                <li><p class="font-bold t-size-16 t-white">Storyverse @2024 </p></li>
+                <li><a class="font-bold t-size-16 cursor-pointer brand-link" href="https://www.facebook.com">ⓕ</a></li>
+                <li><a class="font-bold t-size-16 cursor-pointer brand-link" href="https://www.twitter.com">𝕏</a></li>
+            </ul>
+        </nav>
+    </footer>
 </body>
 </html>
