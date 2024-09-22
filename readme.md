@@ -214,7 +214,7 @@ This is solved picture with no issues.
 
 ![W3C CSS Validator](asset/images/css-test.jpeg)
 
-## The book page , contact page and dumbforum page were having some issues but all of them were fixed
+### The book page , contact page and dumbforum page were having some issues but all of them were fixed
 (I have made screenshots and I thought I saved them but obviously, I didn´t. The chance is gone, that they are already fixed.)
 ![contact-fixed](asset/images/contact-fixed.PNG)
 
@@ -222,7 +222,7 @@ This is solved picture with no issues.
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
-![Lighthouse testing](asset/images/performance_check.PNG)
+![Lighthouse testing](asset/images/performance-check.PNG)
 
 ### Responsive Testing
 
