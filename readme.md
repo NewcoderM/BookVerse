@@ -189,19 +189,43 @@ Which enhances the user experience by getting a thank you or congratulation mess
 # Testing
 
 ## Code Validation
+
+## Index Page
 BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
 
 ![W3C HTML Validator](asset/images/html-test.jpeg)
 
 ![W3C CSS Validator](asset/images/css-test.jpeg)
 
-## Lighthouse Testing
+### Lighthouse Testing
 
 The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
 
 ![Lighthouse testing](asset/images/performace-check.PNG)
 
-## Responsive Testing
+### Responsive Testing
+
+Responsiveness was tested via a few different mediums manually, including Chrome Devtools.
+
+## Books Page
+
+BookVerse was tested with HTML and CSS validators. With HTML validator it got 3 problems and with CSS Validator, it doesn't have any problems.
+
+![W3C HTML Validator Issues](asset/images/issues-on-books-page-w3c.PNG)
+
+This is solved picture with no issues.
+
+![W3C HTML Validator Issues Solved](asset/images/issues-on-books-page-w3c.PNG)
+
+![W3C CSS Validator](asset/images/css-test.jpeg)
+
+### Lighthouse Testing
+
+The website was also put through Lighthouse testing via Chrome Devtools which tests a site under 4 different headings; Performance, Accessibility, Best Practices and SEO and it tests it under mobile and desktop criteria.
+
+![Lighthouse testing](asset/images/performace-check.PNG)
+
+### Responsive Testing
 
 Responsiveness was tested via a few different mediums manually, including Chrome Devtools.
 
