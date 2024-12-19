@@ -26,9 +26,8 @@ You can view the live site here - <a href="https://newcoderm.github.io/BookVerse
   - [Contact Page](#contact-page)
 - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
-- [Testing & Code Validation](#testing)
+- [Testing and Code Validation](#testing-and-code-validation)
   - [Lighthouse Testing](#lighthouse-testing)
-  - [Accessibility Testing](#accessibility-testing)
   - [Responsive Testing](#responsive-testing)
   - [Manual Testing](#manual-testing)
   - [Bugs Fixed](#bugs-fixed)
@@ -185,7 +184,7 @@ Which enhances the user experience by getting a thank you or congratulation mess
 
 [Back to top](<#contents>)
 
-# Testing & Code Validation
+# Testing and Code Validation
 
 ## Index Page
 BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
@@ -264,9 +263,12 @@ In addition to the automated process above, manual testing was carried out on th
 ## Bugs Fixed
 
 ### HTML Validation
-BookVerse had 8 problems and I managed to fix them.
+StoryVerse had 8 problems and I managed to fix them.
 
 ![Bug Fixed](asset/images/debug-html.PNG)
+
+### CSS Validation
+Storyverse passed with no errors.
 
 # Deployment
 
