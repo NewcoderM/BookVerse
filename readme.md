@@ -26,8 +26,7 @@ You can view the live site here - <a href="https://newcoderm.github.io/BookVerse
   - [Contact Page](#contact-page)
 - [Future Features](#future-features)
 - [Technologies Used](#technologies-used)
-- [Testing](#testing)
-  - [Code Validation](#code-validation)
+- [Testing & Code Validation](#testing)
   - [Lighthouse Testing](#lighthouse-testing)
   - [Accessibility Testing](#accessibility-testing)
   - [Responsive Testing](#responsive-testing)
@@ -186,9 +185,7 @@ Which enhances the user experience by getting a thank you or congratulation mess
 
 [Back to top](<#contents>)
 
-# Testing
-
-## Code Validation
+# Testing & Code Validation
 
 ## Index Page
 BookVerse was tested with HTML and CSS validators. With HTML validator it got 8 problems and with CSS Validator, it doesn't have any problems.
